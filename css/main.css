@@ -772,6 +772,7 @@ footer ul {
     top: 0;
     left: 0;
 }
-.popup_bg {
+.popup_bg p {
     position: absolute;
+    left: -999999px
 }
